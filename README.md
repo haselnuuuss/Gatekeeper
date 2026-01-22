@@ -102,6 +102,7 @@ Kein Planet ist gleich. Jeder Zielort wird aus 3 Komponenten (Traits) generiert,
 
 ### Unique Heroes (Die "Stars")
 Besondere Charaktere mit eigener Backstory und fixen Traits.
+Beispieltraits:
 * **Xeno-Hasser:** Weigert sich, Aliens im Team zu heilen.
 * **Alte Garde:** Immun gegen Panik.
 * **Jinx:** 5% Chance, dass Tech im Umkreis ausfällt (Bad Luck), aber +20% Crit Chance.
@@ -114,6 +115,8 @@ Du siehst nicht das direkte Gefecht in 3D, sondern taktische Daten (Balken für 
 2.  **[Option A - Vanguard]:** Hinterhalt legen (Erfolg: 70%).
 3.  **[Option B - Diplomat]:** Bestechung anbieten (Kosten: 50 Gold).
 4.  **[Option C]:** Rückzug zum Tor!
+
+Die Erfolgschancen hängen von den Stats des Einsatzteams ab. Wenn man im Briefing gut wählt, dann hat man höhere Chancen. Aber für manche Missionen hat man evtl. nicht die richtigen Leute, weil noch zu "schwach".
 
 ---
 
